@@ -74,8 +74,7 @@ pkg install wget -y
 pkg install python -y
 pkg install python2 -y
 pkg install openssh -y
-pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/riski150704/LinuxDroid/master/Scripts/Installer/Kali/kali.sh && bash kali.sh
-
+pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh
 
 ls
 
